@@ -2,8 +2,9 @@
   "version": "1.0.0",
   "channel": "stable",
   "base_version": "base-1",
+  "server_url": "https://lc2auth.nyict.com",
   "release_notes": "린클패스 1.0.0 — 통합 인증 런처 첫 정식 버전.\n\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 상품 자동 감지 — 설치됨/미설치를 알아서 구분해 플레이/전체설치 버튼을 보여줍니다.\n• 최소화하면 트레이로 내려가 백그라운드로 계속 동작합니다.\n• 온라인 자동 업데이트를 지원합니다.",
   "mandatory": false,
-  "sha256": "648dbbd6b83797958cfabc95e11efdff855b50c5890f34699eeb8bea77c44a86",
+  "sha256": "557050784684d68136e56d0b78b5b90b8b66ec7dddb9a269851bc2e3125255cf",
   "download_url": "https://github.com/kimyncap-bit/LinClPass-Releases/releases/download/v1.0.0/LinCl_Pass_Setup.exe"
 }

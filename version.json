@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.2 — 상품선택 화면 레이아웃·로그아웃 개선 + exe 버전 표시.\n\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 상품 자동 감지 — 설치됨/미설치를 알아서 구분해 플레이/전체설치 버튼을 보여줍니다.\n• 최소화하면 트레이로 내려가 백그라운드로 계속 동작합니다.\n• 온라인 자동 업데이트를 지원합니다.",
+  "release_notes": "린클패스 Build 0.1.3 — 재실행 안정화(좀비 프로세스 해결) + 단일 인스턴스 개선.\n\n• 프로그램을 닫은 뒤 바탕화면 아이콘을 다시 눌러도 정상 실행됩니다(이전 잔존 프로세스 제거).\n• 이미 실행 중일 때 아이콘을 다시 누르면 숨어 있던 창을 즉시 앞으로 가져옵니다.\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 휴대폰 인증 시 '자동 로그인'을 선택할 수 있습니다.\n• 최소화하면 트레이로 내려가 백그라운드로 계속 동작합니다.\n• 온라인 자동 업데이트를 지원합니다.",
   "mandatory": false,
-  "sha256": "9d675f0b6c3271fbe06c0cf9903740dce1cdc02ae8f8ab5f3ca4dbe3e9350e8b",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.2/LinCl_Pass_Setup.exe"
+  "sha256": "cd189c28c0aa0f2fe30c7d60ee9c485460173fb683f5598a7cfd416d39641e27",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.3/LinCl_Pass_Setup.exe"
 }

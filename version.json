@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.1 — 바탕화면 바로가기로 실행 시 기존 창이 안 뜨던 문제 수정.\n\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 상품 자동 감지 — 설치됨/미설치를 알아서 구분해 플레이/전체설치 버튼을 보여줍니다.\n• 최소화하면 트레이로 내려가 백그라운드로 계속 동작합니다.\n• 온라인 자동 업데이트를 지원합니다.",
+  "release_notes": "린클패스 Build 0.1.2 — 상품선택 화면 레이아웃·로그아웃 개선 + exe 버전 표시.\n\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 상품 자동 감지 — 설치됨/미설치를 알아서 구분해 플레이/전체설치 버튼을 보여줍니다.\n• 최소화하면 트레이로 내려가 백그라운드로 계속 동작합니다.\n• 온라인 자동 업데이트를 지원합니다.",
   "mandatory": false,
-  "sha256": "fe3391d79c34e518215eaeea4b49039d53d54b18a90cab0e88046e7d223eb517",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.1/LinCl_Pass_Setup.exe"
+  "sha256": "9d675f0b6c3271fbe06c0cf9903740dce1cdc02ae8f8ab5f3ca4dbe3e9350e8b",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.2/LinCl_Pass_Setup.exe"
 }

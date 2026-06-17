@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.7 — 상품 카드 표시 개선.\n\n• 상품 카드를 3줄(이름 / 이용권 / 구독·설치)로 정리해 글자가 겹치거나 오른쪽 버튼이 잘리지 않게 했어요.\n• '이용권 0개 · 현재 사용 중'으로 안내 문구를 정확히 다듬었어요(이전의 '타 PC에서 이용중' 표현 수정).",
+  "release_notes": "린클패스 Build 0.1.8 — USB 분리 후 재실행이 안 되던 문제 수정.\n\n• USB 동글을 빼면 안내 후 프로그램이 *확실히* 종료되어, 곧바로 다시 실행할 수 있어요(이전엔 종료가 덜 돼 재실행이 막혔습니다).\n• 오프라인 유예 만료 시에도 동일하게 깔끔히 종료됩니다.",
   "mandatory": false,
-  "sha256": "22f42005f98a81a06ff40cc54527643bbfd866d07846054511c0e23690309dab",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.7/LinCl_Pass_Setup.exe"
+  "sha256": "5e16f65f643b018b8afa4ac0d7cd7568a5334e6ab62d19963c2dcbe956916103",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.8/LinCl_Pass_Setup_0.1.8.exe"
 }

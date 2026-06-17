@@ -1,9 +1,9 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 Build 0.1.13 — 인증 USB 다중 감지 안내.\n\n• 인증 USB(동글)를 2개 이상 꽂으면 '1개만 꽂아 주세요' 안내 후 멈춥니다(임의로 1개를 고르지 않음).\n• 동글 1개만 꽂으면 평소처럼 동작합니다.",
-  "sha256": "94a43114695a424548e2824182752daa2317ee162b743bf14a4867382901db88",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.13/LinCl_Pass_Setup_0.1.13.exe"
+  "release_notes": "린클랩 Build 0.1.14 — 닫은 뒤 다시 실행이 안 되던(무반응) 문제 수정.\n\n• 프로그램을 닫거나 업데이트할 때 *확실히* 종료되도록 통일해, 다시 실행하면 정상적으로 열립니다.\n• (이전엔 드물게 백그라운드에 프로세스가 남아 재실행이 막혔습니다 — 닫기·업데이트·로그아웃 경로 모두 보강.)",
+  "sha256": "4b675cdd3668a3c9cf5c4eefab21eefc2c6994d2fa9e7bffa00eac9f339755d3",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.14/LinCl_Pass_Setup_0.1.14.exe"
 }

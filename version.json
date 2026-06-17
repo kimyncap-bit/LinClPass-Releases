@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.17 — 상품 화면 정리.\n\n• 새로고침을 로고 줄로, USB 정보를 휴대폰번호와 같은 줄 오른쪽으로 옮겼어요.\n• 상품 카드 여백을 줄이고, 상품 이름 옆에 이용권을 함께 표시합니다(그 아래 구독/설치).\n• 플레이 버튼 폭을 줄였습니다.",
-  "sha256": "546dd1fa074300993445adaf437497190660d6a1cb09fb4dec9a270052227a55",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.17/LinCl_Pass_Setup_0.1.17.exe"
+  "release_notes": "린클랩 패스 Build 0.1.18 — 불필요한 스크롤바 제거.\n\n• 상품이 적어 한 화면에 다 보일 때는 스크롤바가 사라지고, 목록이 많아 넘칠 때만 나타납니다.",
+  "sha256": "7599824416c33b490186f68a74b93b67c1a2098da04d657cecf65321a69a5602",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.18/LinCl_Pass_Setup_0.1.18.exe"
 }

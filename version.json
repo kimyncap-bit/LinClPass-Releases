@@ -1,9 +1,9 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 Build 0.1.14 — 닫은 뒤 다시 실행이 안 되던(무반응) 문제 수정.\n\n• 프로그램을 닫거나 업데이트할 때 *확실히* 종료되도록 통일해, 다시 실행하면 정상적으로 열립니다.\n• (이전엔 드물게 백그라운드에 프로세스가 남아 재실행이 막혔습니다 — 닫기·업데이트·로그아웃 경로 모두 보강.)",
-  "sha256": "4b675cdd3668a3c9cf5c4eefab21eefc2c6994d2fa9e7bffa00eac9f339755d3",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.14/LinCl_Pass_Setup_0.1.14.exe"
+  "release_notes": "린클랩 패스 Build 0.1.15 — 새 로고·아이콘 적용.\n\n• 앱/바탕화면 아이콘이 새 린클랩 패스 아이콘(플라스크+열쇠)으로 바뀌었어요.\n• 로그인 화면 상단에 린클랩 로고 + PASS가 표시됩니다.\n• 프로그램 이름이 '린클랩 패스'로 표시됩니다.",
+  "sha256": "268641b2ff25173306408ec32c262aec5b1708b4bde2d04c8359887cb15617cc",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.15/LinCl_Pass_Setup_0.1.15.exe"
 }

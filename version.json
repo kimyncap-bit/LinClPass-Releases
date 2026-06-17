@@ -1,9 +1,9 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.11 — 구동 화면·이용권 표시 개선.\n\n• 구동 화면이 '2PC 자동힐 불러오는 중…' → 실행되면 '2PC 자동힐 프로그램이 실행되었습니다.'로 바뀝니다.\n• 힐러 프로그램을 끄면 이용권이 자동으로 반환되어 곧바로 다시 플레이할 수 있어요(이전엔 '사용 중'으로 남았습니다).\n• 런처 상단의 중복 '이용권' 표시를 정리했습니다.",
-  "sha256": "e7c6104181468df08b4bee61a20cf12c4d09eb4af7c9a2fe4d567ce4cbc67331",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.11/LinCl_Pass_Setup_0.1.11.exe"
+  "release_notes": "린클랩 Build 0.1.12 — 브랜드 변경(린클랩 · LinCl.Lab).\n\n• 앱 이름과 로고가 '린클랩(LinCl.Lab)'으로 바뀌었어요.\n• 창 제목·트레이·설치 정보가 새 브랜드로 표시됩니다.\n• 기능은 그대로이고, 자동 업데이트로 안전하게 적용됩니다.",
+  "sha256": "15563393a75ec0ae83c6b3e3ac6096a40803bb32f29de47093fdd13e9c6c6991",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.12/LinCl_Pass_Setup_0.1.12.exe"
 }

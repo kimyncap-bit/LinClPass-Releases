@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.5 — 2PC 자동힐 상품 연동 수정.\n\n• '2PC 자동힐' 상품이 목록에 정상적으로 표시됩니다.\n• [설치]를 누르면 이 PC(힐러)에 자동 설치되고, 격수컴에 줄 설치본도 함께 받을 수 있어요.\n• [플레이]를 누르면 힐러 프로그램이 바로 실행되고, USB 동글이 빠지면 자동으로 함께 종료됩니다.\n• 하나의 USB·휴대폰 인증으로 여러 구독 상품에 입장합니다.\n• 트레이로 내려가 있거나 실행 중일 때 바탕화면 아이콘을 다시 누르면 기존 창을 즉시 앞으로 가져옵니다.\n• 휴대폰 인증 시 '자동 로그인'을 선택할 수 있고, 온라인 자동 업데이트를 지원합니다.",
+  "release_notes": "린클패스 Build 0.1.6 — 일반 권한 실행 + 설치 화면 개선.\n\n• 이제 켤 때 '관리자 권한 허용(UAC)' 창이 뜨지 않습니다 — 일반 권한으로 조용히 실행됩니다.\n• 2컴 설치 화면의 불필요한 스크롤바를 없앴습니다.\n• 격수컴에 줄 설치 주소를 짧은 주소로 바꾸고, 옆 [복사] 버튼으로 주소를 바로 복사할 수 있어요(클릭하면 '주소를 복사하였습니다' 안내).",
   "mandatory": false,
-  "sha256": "304af634843b05da87a6cf90fdc9a0e419914b7316195dc87ff02f66ea8f51f1",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.5/LinCl_Pass_Setup.exe"
+  "sha256": "154c07c7c69bd633d9075fed25a4ad3cb22feee10d8a0d371e6dc0ff0fd87029",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.6/LinCl_Pass_Setup.exe"
 }

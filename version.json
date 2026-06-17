@@ -1,9 +1,9 @@
 {
-  "version": "0.1.16",
+  "version": "0.1.17",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.16 — 밝은 테마 + 로고 적용.\n\n• 인증·상품선택 화면이 밝은 배경으로 바뀌었어요(로고가 또렷하게 보입니다).\n• 최상단(휴대폰번호 위)에 린클랩 패스 로고가 표시됩니다.\n• 바탕화면 아이콘이 새 아이콘(플라스크+열쇠)으로 꽉 차게 바뀌었어요.\n• 2컴 자동힐 상품 아이콘 적용 + 카드 여백을 줄였습니다.",
-  "sha256": "b32838a9066201b6b443825b6be68078ed34eece6bacba630e1dd2bb6167b350",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.16/LinCl_Pass_Setup_0.1.16.exe"
+  "release_notes": "린클랩 패스 Build 0.1.17 — 상품 화면 정리.\n\n• 새로고침을 로고 줄로, USB 정보를 휴대폰번호와 같은 줄 오른쪽으로 옮겼어요.\n• 상품 카드 여백을 줄이고, 상품 이름 옆에 이용권을 함께 표시합니다(그 아래 구독/설치).\n• 플레이 버튼 폭을 줄였습니다.",
+  "sha256": "546dd1fa074300993445adaf437497190660d6a1cb09fb4dec9a270052227a55",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.17/LinCl_Pass_Setup_0.1.17.exe"
 }

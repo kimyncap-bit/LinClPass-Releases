@@ -1,10 +1,9 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클패스 Build 0.1.8 — USB 분리 후 재실행이 안 되던 문제 수정.\n\n• USB 동글을 빼면 안내 후 프로그램이 *확실히* 종료되어, 곧바로 다시 실행할 수 있어요(이전엔 종료가 덜 돼 재실행이 막혔습니다).\n• 오프라인 유예 만료 시에도 동일하게 깔끔히 종료됩니다.",
-  "mandatory": false,
-  "sha256": "5e16f65f643b018b8afa4ac0d7cd7568a5334e6ab62d19963c2dcbe956916103",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.8/LinCl_Pass_Setup_0.1.8.exe"
+  "release_notes": "린클패스 Build 0.1.9 — 업데이트 안내를 명확하게.\n\n• 실행하면 새 버전이 있는지 자동으로 확인해, 있으면 '업데이트 실행' 버튼이 켜집니다 — 눌러서 업데이트해야 인증을 진행할 수 있어요.\n• 최신이면 '업데이트 없음'으로 표시됩니다(눌리지 않음).\n• 업데이트 창을 '지금 업데이트' 하나로 단순화했습니다('나중에'·'브라우저로 받기' 제거).",
+  "sha256": "68207e339a75d576bd0ce3a2e57e1df877b8d66abdfa6c87773fe77702648af2",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.9/LinCl_Pass_Setup_0.1.9.exe"
 }

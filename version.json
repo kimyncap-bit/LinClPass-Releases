@@ -1,9 +1,9 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 Build 0.1.12 — 브랜드 변경(린클랩 · LinCl.Lab).\n\n• 앱 이름과 로고가 '린클랩(LinCl.Lab)'으로 바뀌었어요.\n• 창 제목·트레이·설치 정보가 새 브랜드로 표시됩니다.\n• 기능은 그대로이고, 자동 업데이트로 안전하게 적용됩니다.",
-  "sha256": "15563393a75ec0ae83c6b3e3ac6096a40803bb32f29de47093fdd13e9c6c6991",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.12/LinCl_Pass_Setup_0.1.12.exe"
+  "release_notes": "린클랩 Build 0.1.13 — 인증 USB 다중 감지 안내.\n\n• 인증 USB(동글)를 2개 이상 꽂으면 '1개만 꽂아 주세요' 안내 후 멈춥니다(임의로 1개를 고르지 않음).\n• 동글 1개만 꽂으면 평소처럼 동작합니다.",
+  "sha256": "94a43114695a424548e2824182752daa2317ee162b743bf14a4867382901db88",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.13/LinCl_Pass_Setup_0.1.13.exe"
 }

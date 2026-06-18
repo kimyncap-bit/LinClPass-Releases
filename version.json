@@ -1,9 +1,9 @@
 {
-  "version": "0.1.24",
+  "version": "0.1.25",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.24 — 종료 시 상품 프로그램 동반 종료 강화.\n\n• 린클랩 패스를 종료하면 실행 중이던 상품 프로그램(예: 2PC 자동힐 힐러)이 확실히 함께 종료되도록 안전장치를 추가했습니다.",
-  "sha256": "24db60bfbe8a6331aa0a43b6b7d6f6b322fce09a873e1cba2e3e436fae82d088",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.24/LinCl_Pass_Setup_0.1.24.exe"
+  "release_notes": "린클랩 패스 Build 0.1.25 — 인증창 USB 실시간 감지 + 창 높이 정리.\n\n• 휴대폰 인증 화면에서 USB를 빼면 즉시 '연결되지 않음'으로 표시되고 인증이 잠기도록 복원했습니다.\n• 인증창 하단의 불필요한 여백을 없애 창 높이를 줄였습니다.",
+  "sha256": "3e944d491a39a8def66cafe3d83a3de64d4d924f8a298feff7d8c4f8b752e766",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.25/LinCl_Pass_Setup_0.1.25.exe"
 }

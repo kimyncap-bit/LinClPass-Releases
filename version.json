@@ -1,9 +1,9 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.18 — 불필요한 스크롤바 제거.\n\n• 상품이 적어 한 화면에 다 보일 때는 스크롤바가 사라지고, 목록이 많아 넘칠 때만 나타납니다.",
-  "sha256": "7599824416c33b490186f68a74b93b67c1a2098da04d657cecf65321a69a5602",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.18/LinCl_Pass_Setup_0.1.18.exe"
+  "release_notes": "린클랩 패스 Build 0.1.19 — 설치/제거 안정화.\n\n• 업데이트할 때 제거 프로그램이 깨지거나 '설치된 앱' 목록이 옛 이름·버전으로 남던 문제를 고쳤습니다(이제 제거가 정상 동작합니다).",
+  "sha256": "fbf5d8e481287128aa858c9f87b1da5c645dbf57e7e07229fb47a3afa1e4ea0a",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.19/LinCl_Pass_Setup_0.1.19.exe"
 }

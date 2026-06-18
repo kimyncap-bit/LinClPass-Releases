@@ -1,9 +1,9 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.25 — 인증창 USB 실시간 감지 + 창 높이 정리.\n\n• 휴대폰 인증 화면에서 USB를 빼면 즉시 '연결되지 않음'으로 표시되고 인증이 잠기도록 복원했습니다.\n• 인증창 하단의 불필요한 여백을 없애 창 높이를 줄였습니다.",
-  "sha256": "3e944d491a39a8def66cafe3d83a3de64d4d924f8a298feff7d8c4f8b752e766",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.25/LinCl_Pass_Setup_0.1.25.exe"
+  "release_notes": "린클랩 패스 Build 0.1.26 — 인증창 문의처 강조.\n\n• 휴대폰 인증 화면의 '문의 : 텔레그램' 안내를 더 진하게(굵게) 표시했습니다.",
+  "sha256": "977dd018de1e08ceb01d8d67923e695a8d7a00ca5087b37ffc561ff9c6191678",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.26/LinCl_Pass_Setup_0.1.26.exe"
 }

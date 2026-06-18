@@ -1,9 +1,9 @@
 {
-  "version": "0.1.22",
+  "version": "0.1.23",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.22 — 수동 로그인 후 창이 안 뜨던 문제 수정.\n\n• 휴대폰 번호를 직접 입력해 로그인하면 인증 직후 창이 보이지 않던(닫힌 것처럼 보이던) 문제를 고쳤습니다.",
-  "sha256": "d161836e9a621c42862665af1369672f4a5332415e9ae90ae053754ba04a7d82",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.22/LinCl_Pass_Setup_0.1.22.exe"
+  "release_notes": "린클랩 패스 Build 0.1.23 — 구동 화면 개선 · 문의처 변경.\n\n• 2PC 자동힐 구동 화면의 배지를 제품 아이콘으로 바꿨습니다.\n• 구동 화면에 '격수 프로그램 다운로드' 버튼을 추가했습니다(격수컴용 설치본 받기).\n• 문의처를 텔레그램 @healzo 로 변경했습니다.",
+  "sha256": "fa5e6a6d9f3340f6e9eec1aa00b3731c2fbc08d5cf16d998eecae2fd3a76ac62",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.23/LinCl_Pass_Setup_0.1.23.exe"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.19 — 설치/제거 안정화.\n\n• 업데이트할 때 제거 프로그램이 깨지거나 '설치된 앱' 목록이 옛 이름·버전으로 남던 문제를 고쳤습니다(이제 제거가 정상 동작합니다).",
-  "sha256": "fbf5d8e481287128aa858c9f87b1da5c645dbf57e7e07229fb47a3afa1e4ea0a",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.19/LinCl_Pass_Setup_0.1.19.exe"
+  "release_notes": "린클랩 패스 Build 0.1.20 — 문의처 변경.\n\n• 문의 텔레그램이 @dowazo 로 바뀌었습니다.",
+  "sha256": "a3dee547f706f3db4551b14a6e4b4e53422305efdfde9479254f18249e5c0f5d",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.20/LinCl_Pass_Setup_0.1.20.exe"
 }

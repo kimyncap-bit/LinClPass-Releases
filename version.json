@@ -1,9 +1,9 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.28 — USB 인식 안정화 + 화면 개선.\n\n• USB(동글) 인식 안정화 — 동글을 바꿔 꽂거나 다시 시도할 때 현재 동글을 정확히 인식합니다.\n• 로그아웃 후 재로그인 화면이 깔끔하게 표시됩니다.\n• 격수 프로그램 받기 안내를 개선했습니다(격수컴에서 짧은 주소 직접 입력).\n• 2PC 자동힐 보안·안정성 개선.",
-  "sha256": "2484f27f7cfd631e100dbbe0d0a0029c0787b7654f1521df22e9775cd188a654",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.28/LinCl_Pass_Setup_0.1.28.exe"
+  "release_notes": "린클랩 패스 Build 0.1.29 — 접속 세션 계정 연동 보강.\n\n• 접속 시 계정 정보가 정확히 연동되어 관리자 현황·PC 사양 표시가 정확해집니다.\n• 2PC 자동힐 격수 PC 정보 연동을 위한 기반을 보강했습니다.\n• 2PC 자동힐 보안·안정성 유지.",
+  "sha256": "30f6db80cf33846fff8544560d2aab3c44523ef39d2bdb691281ddbaf67bdd4d",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.29/LinCl_Pass_Setup_0.1.29.exe"
 }

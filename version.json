@@ -1,9 +1,9 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.29 — 접속 세션 계정 연동 보강.\n\n• 접속 시 계정 정보가 정확히 연동되어 관리자 현황·PC 사양 표시가 정확해집니다.\n• 2PC 자동힐 격수 PC 정보 연동을 위한 기반을 보강했습니다.\n• 2PC 자동힐 보안·안정성 유지.",
-  "sha256": "30f6db80cf33846fff8544560d2aab3c44523ef39d2bdb691281ddbaf67bdd4d",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.29/LinCl_Pass_Setup_0.1.29.exe"
+  "release_notes": "린클랩 패스 Build 0.1.30 — USB 인식 + 아이콘 개선.\n\n• USB(동글)를 꽂으면 '다시 시도' 없이도 자동으로 인식해 진행합니다.\n• 업데이트 후 바탕화면 아이콘이 항상 최신으로 표시됩니다.\n• 접속 PC 정보(해상도·모니터)를 추가로 표시합니다.\n• 2PC 자동힐 보안·안정성 유지.",
+  "sha256": "459180859e6c66b70fcf373af4eae37071dc84dbbaa4b485eefd5c49a42aba2c",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.30/LinCl_Pass_Setup_0.1.30.exe"
 }

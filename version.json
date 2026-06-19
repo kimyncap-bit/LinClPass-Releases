@@ -1,9 +1,9 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.26 — 인증창 문의처 강조.\n\n• 휴대폰 인증 화면의 '문의 : 텔레그램' 안내를 더 진하게(굵게) 표시했습니다.",
-  "sha256": "977dd018de1e08ceb01d8d67923e695a8d7a00ca5087b37ffc561ff9c6191678",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.26/LinCl_Pass_Setup_0.1.26.exe"
+  "release_notes": "린클랩 패스 Build 0.1.27 — USB 인식 안정화 + 안내 표시 개선.\n\n• USB를 뺐다 다시 꽂거나 재시도할 때 동글이 '연결 안 됨'으로 잘못 인식되던 문제를 고쳤습니다.\n• USB 분리/오프라인 안내 창이 너무 빨리 닫히던 것을 개선했습니다.",
+  "sha256": "7f204ac3f7d5dee09fa39f084c66be853982effd594e3aec9236bfddfaaa277f",
+  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.27/LinCl_Pass_Setup_0.1.27.exe"
 }

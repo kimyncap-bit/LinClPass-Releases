@@ -1,9 +1,9 @@
 {
-  "version": "0.1.30",
+  "version": "0.1.31",
   "channel": "stable",
   "base_version": "base-1",
-  "server_url": "https://158.247.247.110.sslip.io",
-  "release_notes": "린클랩 패스 Build 0.1.30 — USB 인식 + 아이콘 개선.\n\n• USB(동글)를 꽂으면 '다시 시도' 없이도 자동으로 인식해 진행합니다.\n• 업데이트 후 바탕화면 아이콘이 항상 최신으로 표시됩니다.\n• 접속 PC 정보(해상도·모니터)를 추가로 표시합니다.\n• 2PC 자동힐 보안·안정성 유지.",
-  "sha256": "459180859e6c66b70fcf373af4eae37071dc84dbbaa4b485eefd5c49a42aba2c",
-  "download_url": "https://158.247.247.110.sslip.io/dl/update/v0.1.30/LinCl_Pass_Setup_0.1.30.exe"
+  "server_url": "https://pass.lincllab.com",
+  "release_notes": "린클랩 패스 Build 0.1.31 — 화면 정리 + 서비스 주소 정비.\n\n• 상품·인증 창 폭을 더 깔끔하게 정리했습니다.\n• 서비스 도메인을 정식 주소로 전환했습니다(자동 적용·사용 변화 없음).\n• 2PC 자동힐 보안·안정성 유지.",
+  "sha256": "f0c3e6e928538ccb1c4312bfc5b3bee2fb9f0cca91eeb433608b55b54ccffe53",
+  "download_url": "https://pass.lincllab.com/dl/update/v0.1.31/LinCl_Pass_Setup_0.1.31.exe"
 }

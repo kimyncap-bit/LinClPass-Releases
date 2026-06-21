@@ -1,9 +1,9 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.1.31 — 화면 정리 + 서비스 주소 정비.\n\n• 상품·인증 창 폭을 더 깔끔하게 정리했습니다.\n• 서비스 도메인을 정식 주소로 전환했습니다(자동 적용·사용 변화 없음).\n• 2PC 자동힐 보안·안정성 유지.",
-  "sha256": "f0c3e6e928538ccb1c4312bfc5b3bee2fb9f0cca91eeb433608b55b54ccffe53",
-  "download_url": "https://pass.lincllab.com/dl/update/v0.1.31/LinCl_Pass_Setup_0.1.31.exe"
+  "release_notes": "린클랩 패스 Build 0.1.32 — 설치 상태 인식 개선.\n\n• 프로그램을 삭제한 뒤 다시 설치할 때 설치 상태를 정확히 인식합니다(필요 시 [설치하기]로 안내).\n• 2PC 자동힐 보안·안정성 유지.",
+  "sha256": "97942df1b6c412f6338a5e0057a725e93d1df07170c48105050550720444e2db",
+  "download_url": "https://pass.lincllab.com/dl/update/v0.1.32/LinCl_Pass_Setup_0.1.32.exe"
 }

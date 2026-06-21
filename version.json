@@ -1,9 +1,9 @@
 {
-  "version": "0.1.33",
+  "version": "0.1.34",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.1.33 — USB 인식·진단 개선.\n\n• 동글(USB)을 다시 꽂거나 [다시 시도]할 때 인식이 즉시 반영됩니다(이전엔 앱 재시작이 필요한 경우가 있었습니다).\n• 설치·실행 진단 기록을 보강해 문제 발생 시 더 빠르게 파악합니다.\n• 2PC 자동힐 보안·안정성 유지.",
-  "sha256": "43c950f4671c6b405b6b789439c832e50073c2d6026c43affd6e1fd7a575852b",
-  "download_url": "https://pass.lincllab.com/dl/update/v0.1.33/LinCl_Pass_Setup_0.1.33.exe"
+  "release_notes": "린클랩 패스 Build 0.1.34 — 사용성 개선.\n\n• 트레이로 내려간 창을 트레이 아이콘(더블클릭) 또는 바탕화면 아이콘으로 다시 열 수 있습니다.\n• 종료 확인 안내 문구와 로고를 다듬었습니다.\n• 프로그램을 삭제하면 설치 폴더가 깔끔히 정리됩니다.\n• 2PC 자동힐 보안·안정성 유지.",
+  "sha256": "85253b2f2e43daef35857b84883a3327fb425adb592700f8ff104e6058d24ad0",
+  "download_url": "https://pass.lincllab.com/dl/update/v0.1.34/LinCl_Pass_Setup_0.1.34.exe"
 }

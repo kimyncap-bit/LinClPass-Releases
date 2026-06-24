@@ -1,9 +1,9 @@
 {
-  "version": "0.1.36",
+  "version": "0.3.0",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.1.36 — 좌석 자동 회복·자원 최적화.\n\n• 힐러(상품)를 끄면 이용권이 자동으로 회복되어 바로 다시 플레이할 수 있습니다(새로고침 불필요).\n• USB 감시를 이벤트 방식으로 바꿔 게임 중 백그라운드 자원 사용을 줄였습니다.\n• 2PC 자동힐 보안·안정성 유지.",
-  "sha256": "8da8ea953ccf4a99055d19bcc32f620253b0c118a4d5d1b73da9cd47f59daac9",
-  "download_url": "https://pass.lincllab.com/dl/update/v0.1.36/LinCl_Pass_Setup_0.1.36.exe"
+  "release_notes": "린클랩 패스 Build 0.3.0 — 화면 전면 개편\n\n• 화면이 즉시 그려져 더 부드럽고 빠릅니다.\n• 상품 카드를 더 보기 쉽게 정리했습니다(3줄 구성·여백 개선).\n• 트레이 아이콘을 한 번만 클릭해도 창이 열립니다.\n• 힐러 설치·업데이트가 끝나면 안내 팝업이 뜹니다.\n• 인증·로그인·플레이·이용권 자동복원 등 기존 기능은 그대로입니다.",
+  "sha256": "b6fb9f5f17e2e9d8047dcf76e8ce06ffffaafc3f8f3fb8d16f2ecd86302a7fd9",
+  "download_url": "https://cdn.lincllab.com/pass/update/0.3.0/LinCl_Pass_Setup.exe"
 }

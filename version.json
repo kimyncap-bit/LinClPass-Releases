@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.3.1 — 내부 진단·관리 기능 개선.\n\n• 사용 화면·기능은 0.3.0과 동일합니다.",
-  "sha256": "f067a817a65beabc11b12b74237c5031fd1f24e647bb19b15e736a376d96e862",
-  "download_url": "https://cdn.lincllab.com/pass/update/0.3.1/LinCl_Pass_Setup.exe"
+  "release_notes": "린클랩 패스 Build 0.3.2 — 설치 용량 축소.\n\n• 사용하지 않는 내부 구성요소를 제거해 다운로드·설치가 가벼워졌습니다.\n• 화면·기능은 0.3.1과 동일합니다.",
+  "sha256": "35b9b28f503d5b9738dba95e7f6bd9ce08741b176503bdf0585d7b2579c81305",
+  "download_url": "https://cdn.lincllab.com/pass/update/0.3.2/LinCl_Pass_Setup.exe"
 }

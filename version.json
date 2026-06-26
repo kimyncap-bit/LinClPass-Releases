@@ -1,9 +1,9 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.3.5 — 글자 선명도 개선.\n\n• 로컬 화면에서 글자가 더 또렷하게 보이도록 렌더링 방식을 조정했습니다(ClearType).\n• 서체는 메이플스토리체 그대로 유지.",
-  "sha256": "544972534336230d0037d09ff0b2207e42a3ef4955e3b48da12c4af2fe1740de",
-  "download_url": "https://cdn.lincllab.com/pass/update/0.3.5/LinCl_Pass_Setup.exe"
+  "release_notes": "린클랩 패스 Build 0.3.6 — 힐러 업데이트 후 안내.\n\n• 자동힐(힐러) 업데이트가 끝나면 린클패스 창이 다시 떠서 '플레이 버튼을 누르세요' 안내를 보여줍니다.\n• 업데이트 후 멈춘 줄 알고 기다리던 불편을 해소했습니다.",
+  "sha256": "28531a285fa2e63597280a01919d62cdacf3724fe29f3c8059014393667d3a01",
+  "download_url": "https://cdn.lincllab.com/pass/update/0.3.6/LinCl_Pass_Setup.exe"
 }

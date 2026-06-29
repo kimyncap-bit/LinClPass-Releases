@@ -1,9 +1,9 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.3.8 — 내부 정리·반응성 개선.\n\n• 상품 화면 불러오기를 비동기화해 느린 네트워크에서도 창이 멈추지 않습니다.\n• 미사용 코드 정리 및 자원 사용 최적화(동작 변화 없음).",
-  "sha256": "0b29889b95fac75d54dfba55c3a5ab4f16c2f59240bc15cca317d3c48507dd7d",
-  "download_url": "https://cdn.lincllab.com/pass/update/0.3.8/LinCl_Pass_Setup.exe"
+  "release_notes": "린클랩 패스 Build 0.3.9 — 차단된 USB 표시.\n\n• 관리자가 정지한 USB로 실행하면 'USB 상태'에 '차단된 USB'로 표시되고 플레이가 비활성화됩니다.",
+  "sha256": "6c12c6f7e32de72c2f7f4bcff25cffe0078a330bafb63941d8034c535c9fed32",
+  "download_url": "https://cdn.lincllab.com/pass/update/0.3.9/LinCl_Pass_Setup.exe"
 }

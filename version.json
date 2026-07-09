@@ -1,9 +1,9 @@
 {
-  "version": "0.3.9",
+  "version": "0.3.10",
   "channel": "stable",
   "base_version": "base-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.3.9 — 차단된 USB 표시.\n\n• 관리자가 정지한 USB로 실행하면 'USB 상태'에 '차단된 USB'로 표시되고 플레이가 비활성화됩니다.",
-  "sha256": "6c12c6f7e32de72c2f7f4bcff25cffe0078a330bafb63941d8034c535c9fed32",
-  "download_url": "https://cdn.lincllab.com/pass/update/0.3.9/LinCl_Pass_Setup.exe"
+  "release_notes": "린클랩 패스 Build 0.3.10 — 접속 상태 반영 개선.\n\n• USB 착탈 상태가 관리자 접속현황에 더 정확하고 빠르게 반영되도록 개선했습니다.",
+  "sha256": "4fffbdefeca8e5f6f64c15f9406ffa621206e63f685f4542e306034b8f0a8b2a",
+  "download_url": "https://cdn.lincllab.com/pass/update/0.3.10/LinCl_Pass_Setup.exe"
 }

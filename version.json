@@ -1,9 +1,9 @@
 {
-  "version": "0.3.10",
+  "version": "1.0.0",
   "channel": "stable",
-  "base_version": "base-1",
+  "base_version": "qml-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 Build 0.3.10 — 접속 상태 반영 개선.\n\n• USB 착탈 상태가 관리자 접속현황에 더 정확하고 빠르게 반영되도록 개선했습니다.",
-  "sha256": "4fffbdefeca8e5f6f64c15f9406ffa621206e63f685f4542e306034b8f0a8b2a",
-  "download_url": "https://cdn.lincllab.com/pass/update/0.3.10/LinCl_Pass_Setup.exe"
+  "release_notes": "린클랩 패스 1.0.0 — 런처를 새롭게 단장했습니다.\n\n[화면]\n• 화면 전체를 새로 만들었습니다. 글자와 아이콘이 더 또렷하고 부드럽게 표시됩니다.\n• 로딩·설치·업데이트 화면의 안내와 진행 표시를 다듬었습니다.\n• 상품 목록의 표시 순서와 구독 상태 안내가 개선되었습니다.\n\n[사용성]\n• 힐러를 종료한 뒤 [플레이] 버튼이 다시 켜지기까지 기다리는 시간을 줄였습니다.\n\n[안정성]\n• 문제가 생겼을 때 원인을 더 빨리 찾을 수 있도록 진단 기록을 보강했습니다.",
+  "sha256": "c1e41e2013aeadc7beac96153acb94d3f1a9338802ce541896e18fd586aaf8dd",
+  "download_url": "https://cdn.lincllab.com/pass/update/1.0.0/LinCl_Pass_Setup.exe"
 }

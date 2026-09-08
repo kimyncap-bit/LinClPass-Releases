@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "channel": "stable",
   "base_version": "qml-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 1.4.0\n\n[설치가 앱 안에서 끝납니다]\n• [설치하기]를 누르면 브라우저를 열지 않고 앱 안에서 바로 받아 설치합니다. 받는 동안 진행률·속도·남은 시간이 보입니다.\n• 설치가 실패하면 실패했다고 화면에 표시됩니다. 지금까지는 실패해도 성공한 것처럼 보여 무엇이 잘못됐는지 알 수 없었습니다.\n• 설치를 준비하는 중에 생긴 오류도 화면에 표시됩니다. 지금까지는 아무 안내 없이 멈춘 것처럼 보였습니다.\n• 설치 화면에 제목이 표시됩니다.\n• 설치 버튼 문구가 그 프로그램에 맞게 표시됩니다.\n• 짝이 되는 프로그램이 없는 상품에는 「다른 PC에도 설치」 안내가 더 이상 표시되지 않습니다.\n\n[안정성]\n• 프로그램이 서버로 보내는 진단 기록의 양을 크게 줄였습니다. 서버가 잠시 불안정할 때 같은 내용을 반복해서 보내던 동작을 고쳤습니다. 화면·기능·속도는 그대로입니다.",
-  "sha256": "5227ff91ef450fd70aecb70483289fe5dce5ea791c40ad24aef92501d9c7859f",
-  "download_url": "https://cdn.lincllab.com/pass/update/1.4.0/LinCl_Pass_Setup.exe",
-  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.4.0/LinClPass_App_1.4.0.zip",
-  "app_zip_sha256": "89d4a942a6d24bc74283a95bf102c30594cb2f0916b9acbade0d69f15ced1bf1"
+  "release_notes": "린클랩 패스 1.4.1\n\n• 프로그램 기능은 1.4.0과 같습니다. 내부 정비만 한 판입니다.",
+  "sha256": "30f5d1225688db95b021cff3a4e4277755dc1cf8b39b07e68a23b43c6f7f3815",
+  "download_url": "https://cdn.lincllab.com/pass/update/1.4.1/LinCl_Pass_Setup.exe",
+  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.4.1/LinClPass_App_1.4.1.zip",
+  "app_zip_sha256": "de65248182135ddfc0ae388a11d4faaec62249e048aec19cb1fe1061c8894f84"
 }

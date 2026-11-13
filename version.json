@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
+  "version": "1.6.0",
   "channel": "stable",
   "base_version": "qml-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 1.5.2\n\n• 「법사 턴 사냥」을 켤 때 린클패스가 「응답 없음」으로 멈추던 문제를 개선했습니다.\n• 상품이 켜져 있어도 [설치하기] · [최신버전 재설치]가 그 상품을 먼저 끄고 설치합니다.\n• 「다른 PC 에서 사용 중」 알림의 [계속하기]를 뺐습니다. 다른 PC 에서 끈 뒤 다시 [플레이]를 눌러 주세요.",
-  "sha256": "e3af2cf79cb826b8ee13d7bfbfddee0fe6e7132634b1f78034567c6acf3e2f30",
-  "download_url": "https://cdn.lincllab.com/pass/update/1.5.2/LinCl_Pass_Setup.exe",
-  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.5.2/LinClPass_App_1.5.2.zip",
-  "app_zip_sha256": "975561af6141a08fb891073db001a1a1e505c6407686db353fb64a5cf2c652bb"
+  "release_notes": "린클랩 패스 1.6.0\n\n• 설치·실행이 「스마트 앱 컨트롤」이나 보안 인증서 때문에 막히면, 원인과 해결 방법을 알려 주는 창이 뜹니다.\n• 상품이 끝난 뒤 카드가 낡은 판인데도 [플레이]로 돌아오던 문제를 고쳤습니다. 이제 끝날 때마다 최신 여부를 다시 확인해 [업데이트]로 보여 줍니다.",
+  "sha256": "9bcb6692a140cfb8209e27aeb6e53a1a2f841334d05fb28992a73ab9208f5103",
+  "download_url": "https://cdn.lincllab.com/pass/update/1.6.0/LinCl_Pass_Setup.exe",
+  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.6.0/LinClPass_App_1.6.0.zip",
+  "app_zip_sha256": "0cfdf0a7d64f43aefc678aab7d057dce90cc8fc709855bd17c57426e0ce3a872"
 }

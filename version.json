@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "channel": "stable",
   "base_version": "qml-1",
   "server_url": "https://pass.lincllab.com",
-  "release_notes": "린클랩 패스 1.6.0\n\n• 설치·실행이 「스마트 앱 컨트롤」이나 보안 인증서 때문에 막히면, 원인과 해결 방법을 알려 주는 창이 뜹니다.\n• 상품이 끝난 뒤 카드가 낡은 판인데도 [플레이]로 돌아오던 문제를 고쳤습니다. 이제 끝날 때마다 최신 여부를 다시 확인해 [업데이트]로 보여 줍니다.",
-  "sha256": "9bcb6692a140cfb8209e27aeb6e53a1a2f841334d05fb28992a73ab9208f5103",
-  "download_url": "https://cdn.lincllab.com/pass/update/1.6.0/LinCl_Pass_Setup.exe",
-  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.6.0/LinClPass_App_1.6.0.zip",
-  "app_zip_sha256": "0cfdf0a7d64f43aefc678aab7d057dce90cc8fc709855bd17c57426e0ce3a872"
+  "release_notes": "린클랩 패스 1.6.1\n\n• 실행 중인 상품 카드의 [업데이트]를 누르면 「실행 중인 앱이 꺼집니다」 확인창이 먼저 뜹니다.\n• 앱 안에서 업데이트하는 중에는 카드에 「앱에서 업데이트 중입니다」가 보입니다.\n• 하단 상품 목록에 법사 턴 사냥(월 50,000원)이 보입니다.\n• 시작 화면과 로딩 모양, 설치 화면 단추 위치를 다듬었습니다.",
+  "sha256": "ed30b382306a6c5f241fc5293fae2770e513f5b87a780b80ab81dbf044e3ab94",
+  "download_url": "https://cdn.lincllab.com/pass/update/1.6.1/LinCl_Pass_Setup.exe",
+  "app_zip_url": "https://cdn.lincllab.com/pass/update/1.6.1/LinClPass_App_1.6.1.zip",
+  "app_zip_sha256": "3f1cd7d793e3f5ef08e6d959b243d35ebe1d8d0ce247445a6f27ece874428dc4"
 }
